@@ -1,5 +1,5 @@
 import { useState } from "react";
-
+import "./app.css"
 import AuthPage from "./authPage";
 import ChatsPage from "./chatsPage";
 
